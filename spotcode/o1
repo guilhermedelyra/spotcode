@@ -1,0 +1,9 @@
+./app/views/layouts/application.html.erb:    <%= render "shared/toolbar" %>
+./app/views/shared/_toolbar.html.erb:	<nav class="columns is-dark is-mobile navbar is-fixed-bottom toolbar">
+./node_modules/globals/globals.json:		"toolbar": false,
+./node_modules/uglify-es/tools/domprops.json:    "toolbar",
+./node_modules/uglify-js/tools/domprops.json:        "toolbar",
+./node_modules/uri-js/tests/qunit.js:					var toolbar = id("qunit-testrunner-toolbar");
+./node_modules/uri-js/tests/qunit.js:	var toolbar = id("qunit-testrunner-toolbar");
+./node_modules/uri-js/tests/test-es5-min.html:    <div id="qunit-testrunner-toolbar"></div>
+./node_modules/uri-js/tests/test-es5.html:    <div id="qunit-testrunner-toolbar"></div>
